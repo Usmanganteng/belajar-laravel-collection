@@ -15,6 +15,25 @@
 ```
 >> - Cara tahu laravel sekarang versi berapa : https://packagist.org/packages/laravel/laravel
 ---
+<b>Cara Menjalankan/Run Project ini</b>
+---
+> - clone
+>  ```
+>  git@github.com:Usmanganteng/belajar-laravel-collection.git
+> ```
+>  - npm
+> ```
+> npm Instal
+> ```
+> - npm update
+> ```
+> npm update
+> ```
+> - Run
+> ```
+> php artisan serve
+> ```
+---
 <b>materi</b>
 ---
 > #### Collection
